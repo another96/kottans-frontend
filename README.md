@@ -13,4 +13,5 @@ I followed the git lessons. I will use the learned commands from now on and unde
 I already had a good base in this part. I skipped it.
 
 ## Responsive Web Design
-A very important part of css. I had knowledge of grid and a little practice. On the other hand, flexbox I had to learn it from scratch. 
+A very important part of css. I had knowledge of grid and a little practice. On the other hand, flexbox I had to learn it from scratch.
+
